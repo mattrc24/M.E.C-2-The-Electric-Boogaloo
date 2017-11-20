@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "b82cdee4-6bb6-403c-8cb5-7a58e3686135",
+            "Value": {
+                "id": "4d993f6f-fc51-4cf8-ba05-53c413e39b8f",
+                "resourcePath": "scripts\\scr_shuffle_deck\\scr_shuffle_deck.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "c56c00f9-5117-491f-b1c8-132256685d08",
             "Value": {
                 "id": "2cf129f1-9abb-46b2-8d8a-0460cf85759a",
@@ -360,7 +368,8 @@
         }
     ],
     "script_order": [
-        "18d2074a-c56f-48d5-ad9a-b201e246dc83"
+        "18d2074a-c56f-48d5-ad9a-b201e246dc83",
+        "b82cdee4-6bb6-403c-8cb5-7a58e3686135"
     ],
     "tutorial": ""
 }
