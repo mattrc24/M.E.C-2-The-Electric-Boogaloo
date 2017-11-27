@@ -1,3 +1,9 @@
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 715174EE
+/// @DnDArgument : "var" "self.numcards"
+self.numcards = 0;
+
 /// @DnDAction : YoYo Games.Data Structures.Create_Map
 /// @DnDVersion : 1
 /// @DnDHash : 2CCC4296
