@@ -1,5 +1,5 @@
 global.gamephase = 0;
-global.cardselected = "none";
+global.deckSelected = "none";
 global.playercanmovecard = 0;
 global.numCards = 0;
 global.numtempcards = 0;

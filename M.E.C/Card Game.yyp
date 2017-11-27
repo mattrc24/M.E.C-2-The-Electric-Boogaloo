@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "05414bbc-218c-49c4-96db-bb64b5c43244",
+            "Value": {
+                "id": "904a2cfd-60d7-4aee-8a45-72ddddabbcf4",
+                "resourcePath": "objects\\obj_choose_Eclipse\\obj_choose_Eclipse.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0763c874-affb-4eb3-ba5e-01b17546958e",
             "Value": {
                 "id": "e9bd9249-6c9d-40ae-a9dc-83b7d3b89252",
@@ -60,6 +68,14 @@
                 "id": "6a722e5b-dd84-4cf2-bb42-aeb15282c55c",
                 "resourcePath": "views\\0bf6ee02-d5db-4142-be74-8569a55518a9.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "151b508f-43f1-4cd3-a0de-f240006d6e94",
+            "Value": {
+                "id": "4dfcc07e-3189-4846-99bc-738056ada902",
+                "resourcePath": "scripts\\scr_create_deck\\scr_create_deck.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -132,6 +148,14 @@
                 "id": "4ae48a23-e0f8-41c5-9322-8e5871dbc889",
                 "resourcePath": "views\\481630bd-02a6-4421-9ac7-58ec2fc23668.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4aa90013-aff2-4d85-82c2-334c9d605541",
+            "Value": {
+                "id": "f94e411b-19c0-431b-8ee7-8a8edba53da6",
+                "resourcePath": "sprites\\ChooseLokyst\\ChooseLokyst.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -223,11 +247,27 @@
             }
         },
         {
+            "Key": "9357a085-6178-4195-b45d-d6ffee0f6583",
+            "Value": {
+                "id": "b68601d8-a9bd-44d6-ba9a-a0f5e491539e",
+                "resourcePath": "scripts\\scr_create_player_with_deck\\scr_create_player_with_deck.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "987a1450-0fdc-4a38-9714-4f4e528be458",
             "Value": {
                 "id": "d5e93622-2724-4e61-80f0-ea9bbfc3afc1",
                 "resourcePath": "views\\987a1450-0fdc-4a38-9714-4f4e528be458.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9c613fcb-3b5a-4ba3-aed9-6aee8d5f5e64",
+            "Value": {
+                "id": "788fa894-fff3-46da-b1fa-5e7974d965a3",
+                "resourcePath": "sprites\\ChooseSanctus\\ChooseSanctus.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -276,6 +316,14 @@
                 "id": "4d993f6f-fc51-4cf8-ba05-53c413e39b8f",
                 "resourcePath": "scripts\\scr_shuffle_deck\\scr_shuffle_deck.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "ba47a8bb-bdb4-4b31-b547-95b4e7190491",
+            "Value": {
+                "id": "ea516930-d842-4cb7-85a3-41e070f96dd3",
+                "resourcePath": "sprites\\ChooseEclipse\\ChooseEclipse.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -343,6 +391,14 @@
             }
         },
         {
+            "Key": "e8dcc991-ab8c-4505-8036-59dc445bc44b",
+            "Value": {
+                "id": "c322350d-35de-4091-b033-68ff1f3a97c5",
+                "resourcePath": "objects\\obj_choose_Sanctus\\obj_choose_Sanctus.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f3becfcd-41d1-41c1-a084-d7bd284e614b",
             "Value": {
                 "id": "d5ead452-5923-49ad-ae20-5b0377fa7cc3",
@@ -365,11 +421,21 @@
                 "resourcePath": "rooms\\player2destroyed\\player2destroyed.yy",
                 "resourceType": "GMRoom"
             }
+        },
+        {
+            "Key": "f6be781f-5306-4720-9e9f-ab0c138d589b",
+            "Value": {
+                "id": "463461d8-2331-42d1-abfb-26c7a8ac5f78",
+                "resourcePath": "objects\\obj_choose_Lokyst\\obj_choose_Lokyst.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "script_order": [
         "18d2074a-c56f-48d5-ad9a-b201e246dc83",
-        "b82cdee4-6bb6-403c-8cb5-7a58e3686135"
+        "b82cdee4-6bb6-403c-8cb5-7a58e3686135",
+        "9357a085-6178-4195-b45d-d6ffee0f6583",
+        "151b508f-43f1-4cd3-a0de-f240006d6e94"
     ],
     "tutorial": ""
 }
