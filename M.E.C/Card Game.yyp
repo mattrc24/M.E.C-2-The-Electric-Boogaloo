@@ -186,8 +186,16 @@
             "Key": "77aa97e1-68e2-4782-87d3-38f0dce4bf02",
             "Value": {
                 "id": "c061ea4d-2ab0-4870-b0f4-5976ce0c4ab8",
-                "resourcePath": "objects\\game\\game.yy",
+                "resourcePath": "objects\\obj_game\\obj_game.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7f560f30-13b9-4c6d-a8fa-812ba4eddedd",
+            "Value": {
+                "id": "c415d2ab-a06d-468c-94ce-07739ad13a8e",
+                "resourcePath": "sprites\\spr_card_empty\\spr_card_empty.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -247,6 +255,14 @@
             }
         },
         {
+            "Key": "a7c79c57-ea35-43a9-86f8-fa374ce99686",
+            "Value": {
+                "id": "6c8dcba2-7f84-4204-9c59-0239bce12cb6",
+                "resourcePath": "sprites\\spr_demo_card_sanctus\\spr_demo_card_sanctus.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a8c879dd-b1ae-47e3-9733-9b2723165ad4",
             "Value": {
                 "id": "f9ad43b2-306b-44d4-aae7-597b3e8e045d",
@@ -268,14 +284,6 @@
                 "id": "3d526d61-b619-448a-92c8-aae7729b4a3d",
                 "resourcePath": "views\\aee038a6-f31e-446e-85fc-6824724411dd.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "b82cdee4-6bb6-403c-8cb5-7a58e3686135",
-            "Value": {
-                "id": "4d993f6f-fc51-4cf8-ba05-53c413e39b8f",
-                "resourcePath": "scripts\\scr_shuffle_deck\\scr_shuffle_deck.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -343,6 +351,14 @@
             }
         },
         {
+            "Key": "e0bce84c-e644-4039-83d8-96d140047469",
+            "Value": {
+                "id": "7ad2d64c-5c44-4fe5-a101-c26beeccbdcd",
+                "resourcePath": "sprites\\spr_demo_card_eclipse\\spr_demo_card_eclipse.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f3becfcd-41d1-41c1-a084-d7bd284e614b",
             "Value": {
                 "id": "d5ead452-5923-49ad-ae20-5b0377fa7cc3",
@@ -368,8 +384,7 @@
         }
     ],
     "script_order": [
-        "18d2074a-c56f-48d5-ad9a-b201e246dc83",
-        "b82cdee4-6bb6-403c-8cb5-7a58e3686135"
+        "18d2074a-c56f-48d5-ad9a-b201e246dc83"
     ],
     "tutorial": ""
 }

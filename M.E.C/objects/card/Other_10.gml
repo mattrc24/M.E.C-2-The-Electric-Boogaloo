@@ -11,8 +11,8 @@ ds_map_replace(data, numcards, 0);
 /// @DnDHash : 2A4EB7CB
 /// @DnDArgument : "var" "data"
 /// @DnDArgument : "key" "sprite"
-/// @DnDArgument : "value" ""blank""
-ds_map_replace(data, sprite, "blank");
+/// @DnDArgument : "value" ""spr_card_empty""
+ds_map_replace(data, sprite, "spr_card_empty");
 
 /// @DnDAction : YoYo Games.Data Structures.Map_Set_Value
 /// @DnDVersion : 1
